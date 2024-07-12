@@ -1,0 +1,4 @@
+# Ignore compiled files and temporary files
+*.bak
+*.tmp
+*.log
